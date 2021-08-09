@@ -26,11 +26,9 @@ For now, I have started the NSW data at 17/6/2021 as this was the first press co
 
 ## Shameless self-promotion:
 
-**Linkedin:** www.linkedin.com/in/LiamPearson
-
-<a href="www.linkedin.com/in/LiamPearson" target="_blank">www.linkedin.com/in/LiamPearson</a>
-
 **Twitter:** www.twitter.com/liampearson
+
+**Linkedin:** www.linkedin.com/in/LiamPearson
 
 **Youtube:** https://youtube.com/channel/UC00mJZYeIKqLDgxZ9napBag
 
