@@ -8,8 +8,9 @@ In this repository you will find
 
 So far the data is only for NSW, but I hope to get all states and territories there soon.
 
-## The data/transcripts
+## The data/transcripts (NSW so far...)
 **json (all):** https://covid19-au-press-conferences.s3.amazonaws.com/nsw/json/nswtranscriptions.json
+
 **text file (daily):** https://covid19-au-press-conferences.s3.amazonaws.com/nsw/text/20210729_nsw_press_conference.txt
 - I'll soon have a .zip file but for now to get a certain day's press conference just substitute the date after /text/ in YYYYMMDD format.
 
