@@ -21,7 +21,7 @@ Secondly, I'm a data scientist and so, like everyone, obsessed with the numbers 
 For now, I have started the NSW data at 17/6/2021 as this was the first press conference of the Sydney/NSW outbreak.
 
 ## References:
-- @jdepoix who wrote the youtube_transcriber library. Such a good library and made this all possible: https://github.com/jdepoix/youtube-transcript-api
+- @jdepoix who's library I used in the code - such a good library and made this all possible: https://github.com/jdepoix/youtube-transcript-api
 
 ## Shameless Self-promo
 **Linkedin:** www.linkedin.com/in/LiamPearson
