@@ -24,9 +24,13 @@ For now, I have started the NSW data at 17/6/2021 as this was the first press co
 ## References:
 - @jdepoix who's library I used in the code - such a good library and made this all possible: https://github.com/jdepoix/youtube-transcript-api
 
-## Shameless Self-promo
+## Shameless self-promotion:
+
 **Linkedin:** www.linkedin.com/in/LiamPearson
+
 **Twitter:** www.twitter.com/liampearson
+
 **Youtube:** https://youtube.com/channel/UC00mJZYeIKqLDgxZ9napBag
+
 
 
